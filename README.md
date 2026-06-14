@@ -54,10 +54,6 @@
 | 🌐 **Мультиязычность** | Русский и английский языки |
 | 📊 **Разворачиваемые секции** | Удобное отображение больших данных |
 
-## 📊 Пример HTML отчёта
-<div align="center">
-  <img width="800" height="400" alt="HTML Report Example" src="https://github.com/user-attachments/assets/984e1ff6-5d61-45ec-92fe-77bef913ef08" />
-</div>
 
 ## 🌐 Поддерживаемые браузеры
 
