@@ -259,3 +259,8 @@
 | **Minecraft** | ✅ Username, Email | ✅ Профили |
 | **GTA V** | ✅ Username, Email | ✅ Настройки |
 | **Steam** | ✅ Расширенные данные | ✅ Конфигурация |
+
+!!!ДЛЯ ТОГО ЧТОБЫ РАБОТАЛ НУЖЕН!!!
+windowsdesktop-runtime-10.0.4-win-x64
+Линк на скачивание https://dotnet.microsoft.com/ru-ru/download/dotnet/10.0
+и дальше поместите его в папку с файлами и запустите билдер
